@@ -1,5 +1,5 @@
-# litecoin-for-universities
-Litecoin questions - you have to know why!
+litecoin I did not know!
+my copy
 
 1.There is more number of litecoins than number of bitcoin (around 4 times more - 84 000 000 to 21 000 000) - is it true?
 
@@ -26,40 +26,3 @@ Physical gold transportation costs are much lower than silver transportation cos
 In cryptocurrencies transportation costs of silver (litecoin) are much lower than gold (bitcoin) - is it true?
 
 12.There have been cases in Bitcoin where a transfer of $120 resulted in a fee of $80 ($200 in total), while in Litecoin it never ever exceeded $1 - is it true?
-
------------------------------------
-Tests results:
------------------------------------
-
-Of the 10 selected compatible cryptocurrencies, 6 universities were to conduct speed and quality tests, take into account transaction fees and sort the cryptocurrencies by assigning them points from 1 to 10. After counting, the following results were obtained
-
-48 points -> 1  place (litecoin)
-
-41 points -> 2  place (hidden)
-
-38 points -> 3  place (hidden)
-
-34 points -> 4  place (hidden)
-
-31 points -> 5  place (hidden)
-
-30 points -> 6  place (hidden)
-
-29 points -> 7  place (hidden)
-
-29 points -> 8  place (hidden)
-
-26 points -> 9  place (hidden)
-
-24 points -> 10 place (hidden)
-
-this was the basis for implementing university payments. work is in progress, on June 23, 2025 there will be the first online presentation for computers, eventually the application will be mobile.
-
------
-
-Hi guys, I am after presentation and I am very supprised about progress. I dont know how Krakow team did their part, but it is working faster than my 3 wallet applications on my phone!!! I am waiting for described code from their side.
-Probably we have to move from here, I will let you know for sure soon.
-I am waiting for acceptation and I will add screens from desktop application. I think it will be something really BIG, I have a lot of requests from technical schools, they also sow the presentation.
-We are focusing still on our part (authorization and documenting) however its not all... We have new requirements connected with ZK (zero knowledge) and "mixer for privacy".
-If you have some sccomplished milestones - please let me know ASAP.
-Thanks and please all work hard, because we are doing something big, nobody expects this before...
